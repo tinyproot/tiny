@@ -1,7 +1,15 @@
-turnip-25.1.0.tzst
+turnip-25.1.0
 turnip-25.0.8.tzst
 turnip-25.0.5.tzst
+turnip-25.0.4.tzst
+turnip-25.0.3.tzst
+turnip-25.0.0
 turnip-24.3.0.tzst
-turnip-24.2.0.tzst
+turnip-24.2.0
+turnip-24.1.5.tzst
 turnip-24.1.0.tzst
+turnip-24.0.5.tzst
+turnip-23.3.5.tzst
 turnip-23.3.0.tzst
+turnip-23.1.5.tzst
+turnip-23.0.0.tzst
